@@ -19,7 +19,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
-      - { label: 'Category', name: 'rating', widget: 'number' }
-      - { label: 'Meta Title', name: 'body', widget: 'string' }
-      - { label: 'Meta Detail', name: 'body', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'number' }
+      - { label: 'Meta Title', name: 'meta-title', widget: 'string' }
+      - { label: 'Meta Detail', name: 'meta-detail', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
